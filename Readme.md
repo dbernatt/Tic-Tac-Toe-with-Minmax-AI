@@ -60,7 +60,7 @@ Main loop of the algorithm:
     }
 ```
 
-THe evaluate method:
+The evaluate method:
 
 ```
  private static int evaluate(Board.State player, Board board) {
